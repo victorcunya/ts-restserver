@@ -1,0 +1,1 @@
+{"version":3,"file":"init-models.js","sourceRoot":"","sources":["../../models/init-models.ts"],"names":[],"mappings":";;;AACA,iCAAyC;AAI7B,sFAJM,YAAM,OAIP;AAQjB,SAAgB,UAAU,CAAC,SAAoB;IAC7C,MAAM,KAAK,GAAG,YAAM,CAAC,SAAS,CAAC,SAAS,CAAC,CAAC;IAG1C,OAAO;QACL,KAAK,EAAE,KAAK;KACb,CAAC;AACJ,CAAC;AAPD,gCAOC"}
